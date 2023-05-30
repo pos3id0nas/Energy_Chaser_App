@@ -1,0 +1,11 @@
+AirCondition
+DESKTOP PC
+Desktop-PC
+illumination
+Monitors
+oven
+Ovens
+refrigerator
+refrigerators
+tvmonitor
+Washing-Machines

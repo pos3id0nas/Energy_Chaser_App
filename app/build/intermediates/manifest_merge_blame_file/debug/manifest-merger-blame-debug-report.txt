@@ -1,0 +1,119 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.energychaser"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:6:5-64
+12-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:6:22-62
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] C:\Users\kkons\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+15        android:name="com.example.energychaser.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] C:\Users\kkons\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] C:\Users\kkons\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.example.energychaser.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] C:\Users\kkons\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] C:\Users\kkons\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21
+22    <application
+22-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:8:5-43:19
+23        android:allowBackup="true"
+23-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:9:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.9.0] C:\Users\kkons\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:10:9-65
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:11:9-54
+29        android:icon="@mipmap/ic_launcher"
+29-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:12:9-43
+30        android:label="@string/app_name"
+30-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:13:9-41
+31        android:supportsRtl="true"
+31-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:14:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.EnergyChaser" >
+33-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:15:9-50
+34        <activity
+34-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:18:9-26:20
+35            android:name="com.example.energychaser.MainActivity"
+35-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:19:13-41
+36            android:exported="true" >
+36-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:20:13-36
+37            <intent-filter>
+37-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:21:13-25:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:22:17-69
+38-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:22:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:24:17-77
+40-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:24:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:27:9-29:40
+44            android:name="com.example.energychaser.ButtonsActivity"
+44-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:28:13-44
+45            android:exported="false" />
+45-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:29:13-37
+46        <activity
+46-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:30:9-32:40
+47            android:name="com.example.energychaser.single_player_activity"
+47-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:31:13-51
+48            android:exported="false" />
+48-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:32:13-37
+49        <activity
+49-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:33:9-35:39
+50            android:name="com.example.energychaser.activity_scan_list"
+50-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:34:13-47
+51            android:exported="false" />
+51-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:35:13-37
+52        <activity
+52-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:36:9-38:39
+53            android:name="com.example.energychaser.CheckList"
+53-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:37:13-38
+54            android:exported="false" />
+54-->C:\Users\kkons\AndroidStudioProjects\EnergyChaser\app\src\main\AndroidManifest.xml:38:13-37
+55
+56        <provider
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kkons\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+57            android:name="androidx.startup.InitializationProvider"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kkons\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+58            android:authorities="com.example.energychaser.androidx-startup"
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kkons\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+59            android:exported="false" >
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kkons\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+60            <meta-data
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kkons\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+61                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kkons\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+62                android:value="androidx.startup" />
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kkons\.gradle\caches\transforms-3\27ea2d1fe40306b6a6ebc7514e2ae640\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+63            <meta-data
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\kkons\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+64                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\kkons\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+65                android:value="androidx.startup" />
+65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\kkons\.gradle\caches\transforms-3\1d1173f99a1313055c26367e9296308a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+66        </provider>
+67    </application>
+68
+69</manifest>

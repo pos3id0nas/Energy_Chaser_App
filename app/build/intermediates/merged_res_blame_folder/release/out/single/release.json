@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-anydpi-v26_buttback.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-anydpi-v26/buttback.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxxhdpi_buttback_round.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxxhdpi/buttback_round.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/raw_entrance.mp4.flat",
+        "source": "com.example.energychaser.app-main-33:/raw/entrance.mp4"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_applogo.png.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/applogo.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_second.png.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/second.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-hdpi_buttback.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-hdpi/buttback.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_gradientback.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/gradientback.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_items_bg.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/items_bg.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-hdpi_buttback_round.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-hdpi/buttback_round.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xhdpi_buttback_round.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xhdpi/buttback_round.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_addbut.png.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/addbut.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxhdpi_buttback_foreground.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxhdpi/buttback_foreground.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxxhdpi_buttback_foreground.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxxhdpi/buttback_foreground.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_cancel.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/cancel.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_buttback.png.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/buttback.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/layout_camera_fragment.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/layout/camera_fragment.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-hdpi_buttback_foreground.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-hdpi/buttback_foreground.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_logo.png.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-mdpi_buttback_foreground.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-mdpi/buttback_foreground.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/layout_activity_single_player.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/layout/activity_single_player.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_progressbar_square.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/progressbar_square.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xhdpi_buttback.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xhdpi/buttback.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable-v21_round_button_add.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable-v21/round_button_add.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/layout_credits_popup.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/layout/credits_popup.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_circlebuttonadd.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/circlebuttonadd.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-anydpi-v26_buttback_round.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-anydpi-v26/buttback_round.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/menu_action_mode_menu.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/menu/action_mode_menu.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxhdpi_buttback.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxhdpi/buttback.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-mdpi_buttback_round.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-mdpi/buttback_round.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_custom_buttons.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/custom_buttons.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/layout_list_check.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/layout/list_check.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/layout_scan_activity_list.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/layout/scan_activity_list.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_award.gif.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/award.gif"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_roundbox.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/roundbox.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_first.jpg.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/first.jpg"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/layout_row_view.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/layout/row_view.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_energychaser.png.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/energychaser.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxhdpi_buttback_round.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxhdpi/buttback_round.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/layout_award.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/layout/award.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_progress_bar.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/progress_bar.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable_ic_reorder.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable/ic_reorder.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-mdpi_buttback.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-mdpi/buttback.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xhdpi_buttback_foreground.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xhdpi/buttback_foreground.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/mipmap-xxxhdpi_buttback.png.flat",
+        "source": "com.example.energychaser.app-main-33:/mipmap-xxxhdpi/buttback.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/layout_activity_buttons.xml.flat",
+        "source": "com.example.energychaser.app-main-33:/layout/activity_buttons.xml"
+    }
+]

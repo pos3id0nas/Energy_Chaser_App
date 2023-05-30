@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\layout_scan_activity_list.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\layout\\scan_activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_buttback.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\buttback.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxxhdpi_buttback.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxxhdpi\\buttback.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-mdpi_buttback.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-mdpi\\buttback.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\layout_activity_buttons.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\layout\\activity_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_award.gif.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\award.gif"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xhdpi_buttback_foreground.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xhdpi\\buttback_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\layout_list_check.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\layout\\list_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_energychaser.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\energychaser.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_addbut.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\addbut.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-mdpi_buttback_foreground.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-mdpi\\buttback_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_applogo.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\applogo.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-hdpi_buttback_foreground.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-hdpi\\buttback_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-anydpi-v26_buttback_round.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-anydpi-v26\\buttback_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxhdpi_buttback_round.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxhdpi\\buttback_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_second.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\second.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxxhdpi_buttback_foreground.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxxhdpi\\buttback_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxxhdpi_buttback_round.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxxhdpi\\buttback_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_circlebuttonadd.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\circlebuttonadd.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\raw_entrance.mp4.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\raw\\entrance.mp4"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\layout_activity_single_player.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\layout\\activity_single_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_items_bg.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\items_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\layout_credits_popup.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\layout\\credits_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xhdpi_buttback_round.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xhdpi\\buttback_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_cancel.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\menu_action_mode_menu.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\menu\\action_mode_menu.xml"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/layout_activity_single_player.xml.flat",
+        "source": "com.example.energychaser.app-main-34:/layout/activity_single_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable-v21_round_button_add.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable-v21\\round_button_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\layout_award.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\layout\\award.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxhdpi_buttback_foreground.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxhdpi\\buttback_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-hdpi_buttback_round.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-hdpi\\buttback_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-hdpi_buttback.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-hdpi\\buttback.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_first.jpg.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\first.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_progress_bar.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_custom_buttons.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\custom_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_gradientback.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\gradientback.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\layout_camera_fragment.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\layout\\camera_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_roundbox.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\roundbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.energychaser.app-merged_res-32:/layout_scan_activity_list.xml.flat",
+        "source": "com.example.energychaser.app-main-34:/layout/scan_activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_progressbar_square.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\progressbar_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xhdpi_buttback.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xhdpi\\buttback.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-xxhdpi_buttback.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-xxhdpi\\buttback.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-mdpi_buttback_round.png.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-mdpi\\buttback_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\layout_row_view.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\layout\\row_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\mipmap-anydpi-v26_buttback.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\mipmap-anydpi-v26\\buttback.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-merged_res-32:\\drawable_ic_reorder.xml.flat",
+        "source": "C:\\Users\\kkons\\.gradle\\daemon\\7.5\\com.example.energychaser.app-main-34:\\drawable\\ic_reorder.xml"
+    }
+]
